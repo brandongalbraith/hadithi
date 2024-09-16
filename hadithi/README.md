@@ -1,5 +1,5 @@
 * `
-Bash scripts used to build generative video dataset pipeline.
+# Easily transform your cpu into a powerful data foundry.
 `
   
 * requirements
@@ -81,7 +81,7 @@ validates image counts in folders, and creates videos from images with proper fr
 ```
 To setup and run, play  video below
 ```
-[![Watch the video](https://raw.githubusercontent.com/qet-lab/hadithi/main/db/images/thumbnail.png)](https://youtu.be/LJgLybDdzRk)
+[![Watch the video](https://raw.githubusercontent.com/qet-lab/hadithi/hadithi/main/db/images/thumbnail.png)](https://youtu.be/LJgLybDdzRk)
 
 
 <a href="https://www.producthunt.com/products/hadithi/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-hadithi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=606618&theme=dark" alt="Hadithi - Data&#0032;factory&#0032;for&#0032;generative&#0032;video&#0032;models&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
