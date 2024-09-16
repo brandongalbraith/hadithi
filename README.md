@@ -1,7 +1,7 @@
 # Easily transform your CPU into a powerful data foundry
   
-* requirements
-    `Ubuntu >= 18.04 LTS`
+* Requirements
+    `UBUNTU >= 18.04 LTS`
     `BASH`
     `EXIFTOOL`
     `FFMPEG >= 4.0`
