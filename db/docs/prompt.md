@@ -2,10 +2,13 @@
 1.0 studio.sh sets up directories and sub-directories.Automates data colection.
 ```
 ```
-2.0 folder.sh script is designed to organize each video files from source directory into individual folders then moving them to folder directory.
+2.0 folder.sh script is designed to organize each video files
+from source directory into individual folders then moving them to folder directory.
 ```
 ```
-3.0 name.sh script is designed to process video files from folder directory, rename them to replace certain characters with underscores, and then copy them to name directory with a new timestamp-based name.
+3.0 name.sh script is designed to process video files from folder directory, rename
+them to replace certain characters with underscores, and then copy them to name directory
+with a new timestamp-based name.
 ```
 ```
 4.0 segment.sh script is designed to process video files in the name directory, create segments using ffmpeg and store them in the clip directory.The script also handles empty directories and logs relevant paths.
