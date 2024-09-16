@@ -1,3 +1,4 @@
+```
 1.0 studio.sh sets up directories and sub-directories.Automates data colection.
 
 2.0 folder.sh script is designed to organize each video files from source directory into individual folders then moving them to folder directory.
@@ -19,3 +20,4 @@
 10.0 valid.sh script is designed to process batch directories containing images, validate that each directory has exactly N images,and then copy those validated directories to the valid directory.
 
 11.0 fps.sh script is designed to concanate image files from valid directory into videos at specific frame rate then moving them into to fps directory.
+```
