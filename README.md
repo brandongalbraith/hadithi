@@ -1,13 +1,11 @@
-* `
-Bash scripts used to build generative video dataset pipeline.
-`
+# Easily transform your CPU into a powerful data foundry
   
 * requirements
     `Ubuntu >= 18.04 LTS`
     `BASH`
     `EXIFTOOL`
     `FFMPEG >= 4.0`
-
+    `VS CODE EDITOR`
 ```
 Hadithi is an open-source command-line tool that enables AI and ML
 developers generate high-quality video datasets for fine-tuning and
