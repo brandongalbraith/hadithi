@@ -1,4 +1,4 @@
-# Easily transform your CPU into a powerful data foundry
+# Transform your CPU into a powerful data foundry
   
 * Requirements
     `UBUNTU >= 18.04 LTS`
