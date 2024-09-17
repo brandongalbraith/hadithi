@@ -7,9 +7,10 @@
     `FFMPEG >= 4.0`
     `VS CODE EDITOR`
 ```
-Hadithi is an open-source command-line tool that enables AI and ML
-developers generate high-quality video datasets for fine-tuning and
-training large language models (LLMs).
+Hadithi is an open-source, bash-based command-line tool that enables
+AI and ML developers to easily convert Youtube, Torrent, and enterprise
+videos into high-quality datasets for fine-tuning large language models (LLMs).
+We are building better alternatives to Weights & Biases and DataRobot.
 
 Hadithi organizes videos into folders, renames them with timestamps,
 segments them into smaller clips, detects scenes, removes audio if needed,
